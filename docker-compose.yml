@@ -3,4 +3,4 @@ services :
   web :
      image : docker72427/my-note-app:1.0
      ports :
-         - "8001:8001"
+         - "8000:8001"
